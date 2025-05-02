@@ -19,7 +19,7 @@ A decentralized application designed to eliminate document forgery using blockch
 - **Storage**: IPFS, Firebase
 - **Tools**: Ganache, Truffle
 
-  ## 🚀 Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -29,7 +29,7 @@ A decentralized application designed to eliminate document forgery using blockch
 - Truffle or Hardhat (for smart contract development)
 
 
-**🧪 How It Works**
+## **🧪 How It Works**
 - User uploads a document → hash is generated.
 
 - Hash is stored on the blockchain via a smart contract.
