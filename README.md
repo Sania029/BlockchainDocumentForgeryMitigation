@@ -19,13 +19,13 @@ A decentralized application designed to eliminate document forgery using blockch
 - **Storage**: IPFS, Firebase
 - **Tools**: Ganache, Truffle
 
-##🧪 How It Works
-User uploads a document → hash is generated.
+**##🧪 How It Works**
+- User uploads a document → hash is generated.
 
-Hash is stored on the blockchain via a smart contract.
+- Hash is stored on the blockchain via a smart contract.
 
-To verify, re-upload the document → hash is compared against the one on-chain.
+- To verify, re-upload the document → hash is compared against the one on-chain.
 
-Match = Valid ✅ | Mismatch = Forged ❌
+- Match = Valid ✅ | Mismatch = Forged ❌
 
 
